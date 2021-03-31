@@ -1,0 +1,24 @@
+{
+  "name": "jest-file-reader",
+  "version": "1.0.0",
+  "description": "jest filereader test",
+  "main": "app/file.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akihiro-moriwaki/jest-file-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akihiro-moriwaki/jest-file-reader/issues"
+  },
+  "homepage": "https://github.com/akihiro-moriwaki/jest-file-reader#readme",
+  "dependencies": {
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "lodash": "^4.17.21"
+  }
+}
